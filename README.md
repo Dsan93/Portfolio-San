@@ -2,7 +2,7 @@
 Este repositorio centraliza la arquitectura, documentacion y organizaciones de mis proyectos
 
 
-## 🧩 Sistemas multi-repo (microservicios)
+## Sistemas multi-repo (microservicios)
 
 ### LabReader
 Plataforma de [descripción corta].
