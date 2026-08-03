@@ -5,5 +5,5 @@ Este repositorio centraliza la arquitectura, documentacion y organizaciones de m
 ## Sistemas multi-repo (microservicios)
 
 ### LabReader
-Plataforma de [para la visualizacion de imagenes y sistema de lectura].
+Plataforma de [visualizacion de imagenes y sistema de lectura con aplicaciones de usuarios].
 Organización: [LabReader](https://github.com/LabReader) · Arquitectura y setup: [docs](https://github.com/LabReader/docs)
